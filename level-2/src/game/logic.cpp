@@ -24,7 +24,12 @@
  */
 void Logic::initBoard(char board[][BOARD_N_MAX], const int size) {
     // TODO: implement
-    throw NotImplementedException();
+    for (int i=0; i<size; i++) {
+        for (int j=0; j<size; j++) {
+            board[i][j] = '-';
+        }
+    }
+    //throw NotImplementedException();
 }
 
 /**
@@ -36,8 +41,12 @@ void Logic::initBoard(char board[][BOARD_N_MAX], const int size) {
  */
 bool Logic::isValidMove(const char board[][BOARD_N_MAX], const int size, const int row, const int col) {
     // TODO: implement
-    throw NotImplementedException();
-    return false;
+    if (row<0 || row > size || col<0 || col>size) {
+        return false;
+    }
+    return board[row][col];
+    //throw NotImplementedException();
+    //return false;
 }
 
 /**
@@ -49,7 +58,8 @@ bool Logic::isValidMove(const char board[][BOARD_N_MAX], const int size, const i
  */
 void Logic::makeMove(char board[][BOARD_N_MAX], const int row, const int col, const char symbol) {
     // TODO: implement
-    throw NotImplementedException();
+    board[row][col] = symbol;
+    //throw NotImplementedException();
 }
 
 /**
