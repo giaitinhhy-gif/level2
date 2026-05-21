@@ -1,0 +1,9 @@
+Tic-tac-toe Game (Version: 0.4.<STUDENT_ID> by baluong.87)
+------------------------------------------------
+[INFO] - [2026-05-21 18:06:47] Logger initialized!
+[INFO] - [2026-05-21 18:06:47] SDL Renderer initialized!
+[INFO] - [2026-05-21 18:06:47] SDL Interaction initialized!
+[INFO] - [2026-05-21 18:06:47] Infra initialized!
+[INFO] - [2026-05-21 18:06:47] Engine initializing . . .
+[INFO] - [2026-05-21 18:06:48] Engine initialized!
+[INFO] - [2026-05-21 18:06:48] [Engine] Starting game . . .
