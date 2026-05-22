@@ -1,0 +1,22 @@
+Tic-tac-toe Game (Version: 0.4.<STUDENT_ID> by baluong.87)
+------------------------------------------------
+[INFO] - [2026-05-22 18:22:10] Logger initialized!
+[INFO] - [2026-05-22 18:22:10] Terminal Renderer initialized!
+[INFO] - [2026-05-22 18:22:10] Terminal Interaction initialized!
+[INFO] - [2026-05-22 18:22:10] Infra initialized!
+[INFO] - [2026-05-22 18:22:10] Engine initializing . . .
+[INFO] - [2026-05-22 18:22:10] redirected cin to: ..\testcase\input1.txt
+[INFO] - [2026-05-22 18:22:10] Engine initialized!
+[INFO] - [2026-05-22 18:22:10] [Engine] Starting game . . .
+[INFO] - [2026-05-22 18:22:10] Board initialized!
+[INFO] - [2026-05-22 18:22:10] [Engine] Game started!
+[INFO] - [2026-05-22 18:22:10] [Engine] Playing game . . .
+[INFO] - [2026-05-22 18:22:10] [Engine] Game done!
+[INFO] - [2026-05-22 18:22:10] [Engine] Ending game . . .
+[INFO] - [2026-05-22 18:22:10] [Engine] Game ended!
+[INFO] - [2026-05-22 18:22:10] Engine closing . . .
+[INFO] - [2026-05-22 18:22:10] fallback using 'std::cin' input stream.
+[INFO] - [2026-05-22 18:22:10] Engine closed!
+[INFO] - [2026-05-22 18:22:10] Engine destroyed!
+[INFO] - [2026-05-22 18:22:10] Infra destroyed!
+[INFO] - [2026-05-22 18:22:10] Logger closing . . .
